@@ -10,8 +10,7 @@ The latest Remote Update documentation can be found at:
 https://docs.google.com/document/d/e/2PACX-1vTVPVpGRzAnQvGqbutZzS0pFPI2TWnONsT6_FKS6pW-li0u4zCLKVs5Ykm4rHqxeUdk1TZLZg3Zj65k/pub
 
 # Example Code #
-An example java project, showing how to use some of PRIMAR APIs, can be found here:
-https://github.com/ElectronicChartCentre/gdsclient
+An example java project, showing how to use some of PRIMAR APIs, can be found [here](https://github.com/ElectronicChartCentre/gdsclient)
 
 A test-code showing S-100 remote update inclusive parsing of permit files can be found here:
 https://github.com/ElectronicChartCentre/gdsclient/blob/master/src/test/java/no/ecc/gdsclient/re mote/RemoteUpdateClientTest.java
