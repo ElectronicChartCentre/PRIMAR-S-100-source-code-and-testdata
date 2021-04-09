@@ -12,8 +12,7 @@ https://docs.google.com/document/d/e/2PACX-1vTVPVpGRzAnQvGqbutZzS0pFPI2TWnONsT6_
 # Example Code #
 An example java project, showing how to use some of PRIMAR APIs, can be found [here](https://github.com/ElectronicChartCentre/gdsclient)
 
-A test-code showing S-100 remote update inclusive parsing of permit files can be found here:
-https://github.com/ElectronicChartCentre/gdsclient/blob/master/src/test/java/no/ecc/gdsclient/re mote/RemoteUpdateClientTest.java
+A test-code showing S-100 remote update inclusive parsing of permit files can be found [here](https://github.com/ElectronicChartCentre/gdsclient/blob/master/src/test/java/no/ecc/gdsclient/remote/RemoteUpdateClientTest.java)
 
 This example uses some S-100 part 15 code from: https://github.com/ElectronicChartCentre/s100.
 
